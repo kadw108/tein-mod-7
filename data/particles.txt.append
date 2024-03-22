@@ -46,7 +46,7 @@ kadw_stars {
     emit_amount 4
     emit_direction [0, 1]
     emit_spread 0
-    emit_box [54, 20]      #54 for "level width", 32 for "level height"    
+    emit_box [54, 24]      #54 for "level width", 32 for "level height"    
     emit_offset [27,34]   #27,16 for middle of the level. 0,0 for bottom left. 54,32 for upper right. this one sets it as a strip at the top 
     
     #particle animation properties
