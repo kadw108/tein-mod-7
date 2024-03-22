@@ -1,0 +1,10 @@
+- click an object on right panel to draw with it
+- rotate with q and e
+- q/e also lets you access other versions of tiles
+- want camera bounds to be close to 16:9 ratio, game will make up difference
+
+- mandatory for any level: camera bounds, floor to stand on, debug spawn, save point
+
+- Right click removes tiles
+
+- new shaders go in shaders and shaders_ogl2 (make 2 versions for both folders?)
