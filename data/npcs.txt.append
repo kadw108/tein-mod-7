@@ -1,5 +1,4 @@
-KADW1TEST {
-#low skull no jaw warp
+KADW1 {
     movieclip NPC14
     sound_id NPCSkull
     text [
@@ -14,13 +13,33 @@ KADW1TEST {
 	"if you press down\nbefore you hit\nthe water"
 	"then jump\nright when you\ntouch the surface" 
         "youll go higher\nthan usual..."
-        "yup"
 	"youll probably\nneed it to get\nup these parts"
 	"old tower,\nripe for climbing..."
-	"you must like\nclimbing"
+	"betcha like\nclimbing"
 	"i like to\njust..."
-	"stay in one place"
-	"and chill"
+	"stay here"
 	"forever"
+    ]
+}
+
+KADW2 {
+    movieclip NPCD6
+    sound_id NPCBlob
+    text [
+	"bet youre all proud\nof yourself"
+	"for making it here"
+	"bet youre patting\nyourself on the back\nright now"
+	"saying"
+	"look at the view!"
+	"or some shit"
+	"well you know what"
+	"the view fucking\nsucks"
+	"ive been staring\nat it for\nYEARS"
+	"i wanna go back down"
+	"but"
+	"im scared..."
+	"..."
+	"i hate being here"
+	"god"
     ]
 }
