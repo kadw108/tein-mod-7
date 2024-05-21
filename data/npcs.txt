@@ -1,0 +1,26 @@
+KADW1TEST {
+#low skull no jaw warp
+    movieclip NPC14
+    sound_id NPCSkull
+    text [
+        "hi"
+	"im just\nhanging out here"
+	"at the edge of a cliff"
+	"at the end of the world"
+	"here to tell you about..."
+	"the MIXIE"
+	"our lord and savior (real)"
+        "yeah so"
+	"if you press down\nbefore you hit\nthe water"
+	"then jump\nright when you\ntouch the surface" 
+        "youll go higher\nthan usual..."
+        "yup"
+	"youll probably\nneed it to get\nup these parts"
+	"old tower,\nripe for climbing..."
+	"you must like\nclimbing"
+	"i like to\njust..."
+	"stay in one place"
+	"and chill"
+	"forever"
+    ]
+}

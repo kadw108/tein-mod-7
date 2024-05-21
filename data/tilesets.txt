@@ -25,7 +25,7 @@ kadw1 {
  	global_particle_1 kadw_stars
 	global_particle_2 kadw_rocks
 
-	npc_1 NPC0
+	npc_1 KADW1TEST
 	npc_2 NPC1
 	npc_3 NPC2
 
