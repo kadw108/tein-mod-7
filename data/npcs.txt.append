@@ -1,23 +1,14 @@
 KADW1 {
-    movieclip NPC14
-    sound_id NPCSkull
+    movieclip NPCD1
+    sound_id NPCBlob
     text [
         "hi"
 	"im just\nhanging out here"
 	"at the edge of a cliff"
 	"at the end of the world"
-	"here to tell you about..."
-	"the MIXIE"
-	"our lord and savior (real)"
-        "yeah so"
-	"if you press down\nbefore you hit\nthe water"
-	"then jump\nright when you\ntouch the surface" 
-        "youll go higher\nthan usual..."
-	"youll probably\nneed it to get\nup these parts"
-	"old tower,\nripe for climbing..."
-	"betcha like\nclimbing"
-	"i like to\njust..."
-	"stay here"
+	"while youre exploring n stuff"
+	"im staying in my little corner"
+	"safe and sound"
 	"forever"
     ]
 }
@@ -33,13 +24,10 @@ KADW2 {
 	"look at the view!"
 	"or some shit"
 	"well you know what"
-	"the view fucking\nsucks"
 	"ive been staring\nat it for\nYEARS"
-	"i wanna go back down"
+	"..."
+	"i wanna go\nsomewhere else"
 	"but"
 	"im scared..."
-	"..."
-	"i hate being here"
-	"god"
     ]
 }
