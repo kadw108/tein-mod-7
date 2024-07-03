@@ -8,7 +8,7 @@ kadw_rocks {
     batched true
     
     #emitter properties
-    emit_rate 2
+    emit_rate 3
     emit_amount 1
     emit_direction [0, -1]
     emit_spread 20

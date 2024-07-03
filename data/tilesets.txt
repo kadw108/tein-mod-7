@@ -1,6 +1,5 @@
-kadw1 {
-	#my first test area
-	area_name "KADW"
+kadw {
+	area_name "Moonrise Ridge"
 	area_label_frame 0
 	tile_graphics Tileradtower
 	overlay_graphics Overlaysscrap
@@ -40,50 +39,4 @@ kadw1 {
 	art_alts [
 		[Floater, Ghost][MiniFly, MiniWisp][MiniRat, MiniRatWhite][MiniFrog, MiniFrogWhite]
 	]
-}
-
-1 {
-    area_name "Test"
-    area_label_frame 1
-    tile_graphics Tilecity
-    overlay_graphics Overlayscity
-    background_graphics bg2
-    foreground_graphics fg1
-    fx_shader distortionparticles
-    palette 1
-    
-    music [newworld_intro.ogg, newworld_loop.ogg]
-    
-    music_volume 1
-    ambience_volume 1
-    
-    tile_particle_1 drip
-    tile_particle_2 splash
-    global_particle_1 fgrain
-    global_particle_2 bgrain
-    global_particle_3 distortrain
-    
-    npc_1 NPC0
-    npc_2 NPC1
-    npc_3 NPC2
-    decoration_1 Decoration0
-    decoration_2 Decoration1
-    decoration_3 inst10
-    
-    area_type normal
-
-    1 {
-        area_name "none"
-        area_label_frame 0
-    }
-    
-    0 {
-        area_name "none"
-        area_label_frame 0
-	    npc_1 NPCH4
-    }
- art_alts [
-        [Floater, Ghost]
-    ]
-
 }
