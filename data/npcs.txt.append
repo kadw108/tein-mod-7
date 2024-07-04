@@ -4,11 +4,14 @@ KADW1 {
     text [
         "hi"
 	"im just\nhanging out here"
-	"at the edge of a cliff"
-	"at the end of the world"
-	"while youre exploring n stuff"
-	"im staying in my little corner"
-	"safe and sound"
+	"chillin"
+	"..."
+        "what, you like going places?"
+        "seeing people?"
+	"thats cool have fun"
+	"me, im staying right here"
+        "right in this corner"
+	"perfectly safe"
 	"forever"
     ]
 }
@@ -17,17 +20,10 @@ KADW2 {
     movieclip NPCD6
     sound_id NPCBlob
     text [
-	"bet youre all proud\nof yourself"
-	"for making it here"
-	"bet youre patting\nyourself on the back\nright now"
-	"saying"
-	"look at the view!"
-	"or some shit"
-	"well you know what"
-	"ive been staring\nat it for\nYEARS"
-	"..."
-	"i wanna go\nsomewhere else"
-	"but"
-	"im scared..."
+	"nice view, innit?"
+        "funny how stuff like this persists"
+        "even after the end of everything"
+	"ehh whatever"
+	"we're all still fucked"
     ]
 }

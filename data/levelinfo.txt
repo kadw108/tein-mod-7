@@ -1,1 +1,16 @@
 "kadw-1" {name="Moonrise Ridge 1" id=-1}
+"kadw-2" {name="Moonrise Ridge 2" id=-1}
+"kadw-3" {name="Moonrise Ridge 3" id=-1}
+"kadw-4" {name="Moonrise Ridge 4" id=-1}
+"kadw-5" {name="Moonrise Ridge 5" id=-1}
+"kadw-6" {name="Moonrise Ridge 6" id=-1}
+"kadw-7" {name="Moonrise Ridge 7" id=-1}
+"kadw-8" {name="Moonrise Ridge 8" id=-1}
+"kadw-9" {name="Moonrise Ridge 9" id=-1}
+"kadw-10" {name="Moonrise Ridge 10" id=-1}
+"kadw-11" {name="Moonrise Ridge 11" id=-1}
+"kadw-12" {name="Moonrise Ridge 12" id=-1}
+"kadw-13" {name="Moonrise Ridge 13" id=-1}
+"kadw-14" {name="Moonrise Ridge 14" id=-1}
+"kadw-15" {name="Moonrise Ridge 15" id=-1}
+"kadw-16" {name="Moonrise Ridge 16" id=-1}
