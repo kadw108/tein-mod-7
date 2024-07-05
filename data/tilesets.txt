@@ -30,7 +30,7 @@ kadw {
 
 	area_type normal
 
-	music [riverflowsinyou_intro3.ogg, riverflowsinyou_loop3.ogg]
+	music [riverflowsinyou_intro3.ogg, riverflowsinyou3_loop.ogg]
 	ambience labloop.ogg
 
 	music_volume 1
