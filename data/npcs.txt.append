@@ -1,5 +1,5 @@
 KADW1 {
-    movieclip NPCD1
+    movieclip NPCB2
     sound_id NPCBlob
     text [
         "hi"
@@ -22,7 +22,8 @@ KADW2 {
     text [
 	"nice view, innit?"
         "funny how stuff like this persists"
-        "even after the end of everything"
+        "even after"
+        "the end of everything"
 	"..."
 	"ehh, whatever"
 	"we're all still fucked"
