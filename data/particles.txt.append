@@ -75,7 +75,7 @@ kadw_waterfall_parts {
     movieclip ToxicParticle
     max_particles 300
     layer 1
-    livebounds [-10, 64, -10, 42]
+    livebounds [-10, 64, -10, 40]
     batched false
     
     #emitter properties
@@ -142,7 +142,7 @@ kadw_waterfall_splash {
 
 kadw_waterfall_splash_top {
     #system properties
-    movieclip TestParticle2
+    movieclip ToxicParticle
     max_particles 500
     layer 2
     livebounds [-10, 64, -10, 42]
@@ -175,7 +175,7 @@ kadw_waterfall_splash_top {
 
 kadw_waterfall_splash_bottom {
     #system properties
-    movieclip TestParticle2
+    movieclip ToxicParticle
     max_particles 500
     layer 2
     livebounds [-10, 64, -10, 42]
